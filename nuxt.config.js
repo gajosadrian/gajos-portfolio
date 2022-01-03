@@ -7,9 +7,9 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'gajos-portfolio',
+    title: 'Adrian Gajos',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'pl',
     },
     meta: [
       { charset: 'utf-8' },
